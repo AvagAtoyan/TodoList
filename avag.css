@@ -1,0 +1,16 @@
+.parent-div {
+    height: 100vh;
+}
+.input-parent {
+    height: 250px;
+    
+
+}
+.close:hover{
+background: #dbd408;
+
+
+}
+.cont1:hover{
+    background-color: rgb(12, 185, 212);
+}
